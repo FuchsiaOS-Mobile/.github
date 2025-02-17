@@ -23,7 +23,7 @@ In the future, FuchsiaOS Mobile will offer:
 
 If you're excited about FuchsiaOS Mobile and want to be part of its development, you can:
 
-* **Follow our progress:** Stay updated on our progress by following us on social media or checking our website.
+* **Follow our progress:** Stay updated on our progress by checking our website (Which will be up soon).
 * **Contribute:** If you're a developer, you can contribute to the project by submitting code, reporting bugs, or helping with documentation.
 
 ## Disclaimer
