@@ -1,12 +1,33 @@
-## Hi there 👋
+# FuchsiaOS Mobile
 
-<!--
+Welcome to FuchsiaOS Mobile, an ambitious project aiming to bring the innovative features of Zircon/Magenta to the world of Android!
 
-**Here are some ideas to get you started:**
+## What is FuchsiaOS Mobile?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+FuchsiaOS Mobile is a custom Android ROM (Read-Only Memory) that's currently in pre-development. This means it's still in its early stages, and we're working hard to bring you a stable and feature-rich experience. Our goal is to blend the best of Android with the unique capabilities of Zircon/Magenta, creating a new and exciting mobile platform.
+
+## Current Status
+
+FuchsiaOS Mobile is currently in pre-development. We're actively working on core features and device support. While we're excited about the potential of FuchsiaOS Mobile, it's important to remember that it's not ready for everyday use just yet.
+
+## What to Expect
+
+In the future, FuchsiaOS Mobile will offer:
+
+* **Enhanced performance:** We're optimizing FuchsiaOS Mobile for speed and efficiency.
+* **Innovative features:** We're bringing select features from Zircon/Magenta to FuchsiaOS Mobile.
+* **Customization:** We want to give you the power to personalize your device.
+* **Community:** We're building a community of developers and users to help shape FuchsiaOS Mobile.
+
+## Join the Journey
+
+If you're excited about FuchsiaOS Mobile and want to be part of its development, you can:
+
+* **Follow our progress:** Stay updated on our progress by checking our website (Which will be up soon).
+* **Contribute:** If you're a developer, you can contribute to the project by submitting code, reporting bugs, or helping with documentation.
+
+## Disclaimer
+
+FuchsiaOS Mobile is currently in pre-development and is not stable. Use it at your own risk.
+
+Thank you for your interest in FuchsiaOS Mobile! We're excited to have you on this journey with us.
